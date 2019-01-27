@@ -1,0 +1,5 @@
+requests
+requests_toolbelt
+webexteamssdk
+webexteamsbot
+beautifulsoup4
